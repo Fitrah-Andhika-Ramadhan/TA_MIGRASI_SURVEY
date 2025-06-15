@@ -1,0 +1,13 @@
+﻿[Run Information]
+Version=CSPro 8.0
+AppType=Entry
+
+[Files]
+Application=.\cbpom_2025.ent
+InputData=.\cbpom_2025.json
+Paradata=.\cbpom_2025.cslog
+
+[ExternalFiles]
+DAFTAR_DICT=.\PRODUK\produk.json
+ENUM_DICT=.\ENUM\enum.json
+SARANA_DICT=.\SARANA\sarana.json

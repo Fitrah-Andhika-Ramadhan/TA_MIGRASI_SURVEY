@@ -1,0 +1,115 @@
+﻿---
+fileType: Question Text
+version: CSPro 8.0
+languages:
+  - name: EN
+    label: English
+styles:
+  - name: Normal
+    className: normal
+    css: |
+      font-family: Arial;font-size: 16px;
+  - name: Instruction
+    className: instruction
+    css: |
+      font-family: Arial;font-size: 14px;
+  - name: Heading 1
+    className: heading1
+    css: |
+      font-family: Arial;font-size: 36px;
+  - name: Heading 2
+    className: heading2
+    css: |
+      font-family: Arial;font-size: 24px;
+  - name: Heading 3
+    className: heading3
+    css: |
+      font-family: Arial;font-size: 18px;
+questions:
+  - name: CBPOM_2025_DICT.KODE_KABUPATEN
+    conditions:
+      - questionText:
+          EN: |
+            <p style="text-align: left;"><span style="font-size: 14px;">Pilih </span><b><span style="font-size: 14px;">Kabupaten/Kota&nbsp;</span></b><span style="font-size: 14px;">sesuai dengan lokasi sarana</span></p><p></p>
+  - name: CBPOM_2025_DICT.NAMA_KABUPATEN
+    conditions:
+      - questionText:
+          EN: |
+            <p><br></p><p></p><p><br></p><p><br></p><p></p>
+  - name: CBPOM_2025_DICT.KODE_PROVINSI
+    conditions:
+      - questionText:
+          EN: |
+            <p><strong><span style="font-size: 14px;">Keterangan:</span></strong><span style="font-size: 14px;">&nbsp;Provinsi ini akan terisi otomatis dan Menyesuaikan setelah memilih&nbsp;</span><b><span style="font-size: 14px;">Kabupaten/Kota&nbsp;</span></b><span style="font-size: 14px;">berhasil</span></p><p></p>
+  - name: CBPOM_2025_DICT.NOMOR_URUT_SARANA
+    conditions:
+      - questionText:
+          EN: |
+            <p>Isikan Nomor Urut Sarana.&nbsp;</p><p>Format (HAAA)&nbsp;</p><p>H=Huruf (U=Utama,C=Cadangan)&nbsp;</p><p>A=Angka&nbsp;</p><p>Contoh : U001&nbsp;</p><p></p>
+  - name: CBPOM_2025_DICT.NAMA_SARANA
+    conditions:
+      - questionText:
+          EN: |
+            <p><strong><span style="font-size: 14px;">Keterangan:</span></strong><span style="font-size: 14px;"> Kolom-kolom ini akan terisi otomatis setelah&nbsp;</span><span style="font-size: 14px;">validasi Nomor Urut Sarana berhasil</span></p><p></p><p></p>
+  - name: CBPOM_2025_DICT.JENIS_SARANA
+    conditions:
+      - questionText:
+          EN: |
+            <p><strong><span style="font-size: 14px;">Keterangan:</span></strong><span style="font-size: 14px;">&nbsp;Kolom-kolom ini akan terisi otomatis setelah validasi Nomor Urut Sarana berhasil</span></p><p></p>
+  - name: CBPOM_2025_DICT.NAMA_JENIS_SARANA
+    conditions:
+      - questionText:
+          EN: |
+            <p><strong><span style="font-size: 14px;">Keterangan:</span></strong><span style="font-size: 14px;">&nbsp;Kolom-kolom ini akan terisi otomatis setelah validasi Nomor Urut Sarana berhasil</span></p><p></p>
+  - name: CBPOM_2025_DICT.ALAMAT_SARANA
+    conditions:
+      - questionText:
+          EN: |
+            <p><strong><span style="font-size: 14px;">Keterangan:</span></strong><span style="font-size: 14px;">&nbsp;Kolom-kolom ini akan terisi otomatis setelah&nbsp;</span><span style="font-size: 14px;">validasi Nomor Urut Sarana berhasil</span></p><p></p>
+  - name: CBPOM_2025_DICT.AKTIFKAN_GPS
+    conditions:
+      - questionText:
+          EN: |
+            <div style="text-align: left;"><span style="font-size: 14px;">Aktifkan fitur GPS pada perangkat untuk merekam </span><strong><span style="font-size: 14px;">koordinat lokasi</span></strong><span style="font-size: 14px;"> sarana saat ini</span></div><p></p>
+  - name: CBPOM_2025_DICT.KODE_ENUMERATOR
+    conditions:
+      - questionText:
+          EN: |
+            <span style="font-size: 14px;">Masukkan </span><b><span style="font-size: 14px;">kode&nbsp; enumerator </span></b><span style="font-size: 14px;">petugas yang terdaftar&nbsp;</span><p></p>
+  - name: CBPOM_2025_DICT.NAMA_ENUMERATOR
+    conditions:
+      - questionText:
+          EN: |
+            <strong><span style="font-size: 14px;">Keterangan:</span></strong><span style="font-size: 14px;">&nbsp;Kolom ini akan terisi otomatis setelah&nbsp;</span><span style="font-size: 14px;">validasi Kode Enumerator berhasil</span><p></p>
+  - name: CBPOM_2025_DICT.NOHP_ENUMERATOR
+    conditions:
+      - questionText:
+          EN: |
+            <strong><span style="font-size: 14px;">Keterangan:</span></strong><span style="font-size: 14px;">&nbsp;Kolom ini akan terisi otomatis setelah&nbsp;</span><span style="font-size: 14px;">validasi Kode Enumerator berhasil</span><p></p>
+  - name: CBPOM_2025_DICT.KETERANGAN_PENCACAHAN
+    conditions:
+      - questionText:
+          EN: |
+            Pilih <strong>keterangan pencacahan</strong>&nbsp;dari produk yang akan didata<p></p>
+  - name: CBPOM_2025_DICT.NAMA_PEMILIK_SARANA
+    conditions:
+      - questionText:
+          EN: |
+            <p data-sourcepos="48:1-49:72"><span style="font-size: 14px;">Mohon sebutkan nama </span><strong><span style="font-size: 14px;">pemilik atau penanggung jawab</span></strong><span style="font-size: 14px;"> dari sarana ini?</span></p><blockquote data-sourcepos="50:1-50:43"><span style="font-size: 14px;">
+            </span><p data-sourcepos="50:3-50:43"><br></p></blockquote><p></p>
+  - name: CBPOM_2025_DICT.PEKERJAAN_RESPONDEN
+    conditions:
+      - questionText:
+          EN: |
+            <p data-sourcepos="56:1-57:67"><span style="font-size: 14px;">Apa&nbsp;</span><strong><span style="font-size: 14px;">jabatan atau pekerjaan</span></strong><span style="font-size: 14px;">&nbsp;Bapak/Ibu/Saudara/i di sarana ini?</span></p><blockquote data-sourcepos="58:1-58:43"><p data-sourcepos="58:3-58:43"><br></p></blockquote><p></p>
+  - name: CBPOM_2025_DICT.FOTO_SARANA
+    conditions:
+      - questionText:
+          EN: |
+            <span style="font-size: 14px;">Lakukan </span><strong><span style="font-size: 14px;">pengambilan foto</span></strong><span style="font-size: 14px;"> tampak depan sarana yang memperlihatkan nama dan kondisi fisik&nbsp; sarana</span><p></p>
+  - name: CBPOM_2025_DICT.NAMA_RESPONDEN
+    conditions:
+      - questionText:
+          EN: |
+            <p data-sourcepos="56:1-57:67"><br></p><p></p>
+...

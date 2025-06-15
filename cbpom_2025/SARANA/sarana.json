@@ -1,0 +1,452 @@
+[
+{
+  "key": "1171U010       ", 
+  "uuid": "c75277cd-a756-48a6-91bf-e313303bd7c6", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "1171U010"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "U010"
+        }, 
+        "NM_SARANAS": {
+          "code": "PT. RAF Alam Fajar"
+        }, 
+        "JNS_SARANAS": {
+          "code": 7
+        }, 
+        "ALAMATS": {
+          "code": "Jln Singsingamangaraja No 4 Lampulo Banda Aceh"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "1171U011       ", 
+  "uuid": "7e912b58-aa7b-4b56-9113-b2bd652fee8f", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "1171U011"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "U011"
+        }, 
+        "NM_SARANAS": {
+          "code": "Toko Kotty"
+        }, 
+        "JNS_SARANAS": {
+          "code": 8
+        }, 
+        "ALAMATS": {
+          "code": "Peunayong Banda Aceh"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "1171U012       ", 
+  "uuid": "9abaf3f1-f50a-4860-8948-5014dcb5fedb", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "1171U012"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "U012"
+        }, 
+        "NM_SARANAS": {
+          "code": "Natural Cosmetic"
+        }, 
+        "JNS_SARANAS": {
+          "code": 8
+        }, 
+        "ALAMATS": {
+          "code": "jln Hasan Saleh Neusu Banda Aceh"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "1171C002       ", 
+  "uuid": "0e9caf89-abdf-4ecc-8576-de02f97fb16b", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "1171C002"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "C002"
+        }, 
+        "NM_SARANAS": {
+          "code": "RSUD Meuraxa"
+        }, 
+        "JNS_SARANAS": {
+          "code": 1
+        }, 
+        "ALAMATS": {
+          "code": "Jl. Soekarno - Hatta No.1 Mibo Kec. Banda Raya Kota Banda Aceh Aceh 23231"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "1171C003       ", 
+  "uuid": "82c47d96-af45-43e2-b985-db3149192807", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "1171C003"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "C003"
+        }, 
+        "NM_SARANAS": {
+          "code": "Apotek Ratu"
+        }, 
+        "JNS_SARANAS": {
+          "code": 2
+        }, 
+        "ALAMATS": {
+          "code": "Jl. Sri Ratu Safiatuddin No.66 Banda Aceh"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "1805U037       ", 
+  "uuid": "ee63fb58-9fe2-41f6-89ce-0e7ae2158d5a", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "1805U037"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "U037"
+        }, 
+        "NM_SARANAS": {
+          "code": "PB Swalayan Poncowati"
+        }, 
+        "JNS_SARANAS": {
+          "code": 5
+        }, 
+        "ALAMATS": {
+          "code": "Jl. Ahmad Yani No.7 Poncowati Kec. Terbanggi Besar Kabupaten Lampung Tengah Lampung 34163"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "1805U038       ", 
+  "uuid": "ee0aa6b1-4593-4484-8ef7-ffef03424655", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "1805U038"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "U038"
+        }, 
+        "NM_SARANAS": {
+          "code": "PB Swalayan Bandar Jaya"
+        }, 
+        "JNS_SARANAS": {
+          "code": 5
+        }, 
+        "ALAMATS": {
+          "code": "Jl Proklamator Bandar Jaya"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "1805U039       ", 
+  "uuid": "e0ca2dfa-992f-48c4-b26b-9cf9e2244d2a", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "1805U039"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "U039"
+        }, 
+        "NM_SARANAS": {
+          "code": "Bagas Mart"
+        }, 
+        "JNS_SARANAS": {
+          "code": 6
+        }, 
+        "ALAMATS": {
+          "code": "Jln. Lintas Sumatera Kp. Terbanggi Agung Gng Sugih - LAmteng Kab. Lampung Tengah Lampung"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "1805U040       ", 
+  "uuid": "6d61912b-1b05-4fc4-b0f1-a3adda3bb186", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "1805U040"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "U040"
+        }, 
+        "NM_SARANAS": {
+          "code": "AA Mart Mini Market"
+        }, 
+        "JNS_SARANAS": {
+          "code": 6
+        }, 
+        "ALAMATS": {
+          "code": "Jl. Raya Wates Lampung Tengah Kab. Lampung Tengah Lampung"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "1805U041       ", 
+  "uuid": "d5978ad1-0130-46ca-ad93-71c03fad0e05", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "1805U041"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "U041"
+        }, 
+        "NM_SARANAS": {
+          "code": "Toko Obat Siman"
+        }, 
+        "JNS_SARANAS": {
+          "code": 3
+        }, 
+        "ALAMATS": {
+          "code": "Jl. Proklamator Raya No.27 Bandar Jaya Lampung tengah Kab. Lampung Tengah Lampung"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "5171U015       ", 
+  "uuid": "ab48e37c-d395-494e-8e9e-a63d36874d0a", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "5171U015"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "U015"
+        }, 
+        "NM_SARANAS": {
+          "code": "Klinik DNI"
+        }, 
+        "JNS_SARANAS": {
+          "code": 10
+        }, 
+        "ALAMATS": {
+          "code": "Jl. Raya Puputan N0. 70 Denpasar"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "5171U016       ", 
+  "uuid": "5eb90537-45de-4dcf-9915-3436b5350e44", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "5171U016"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "U016"
+        }, 
+        "NM_SARANAS": {
+          "code": "Toko Delapan"
+        }, 
+        "JNS_SARANAS": {
+          "code": 6
+        }, 
+        "ALAMATS": {
+          "code": "Pasar Nyanggelan DEnpasar"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "5171C001       ", 
+  "uuid": "7c32b406-9f7c-49f7-9650-e8bc030a45e6", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "5171C001"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "C001"
+        }, 
+        "NM_SARANAS": {
+          "code": "RUMAH SAKIT UMUM BHAKTI RAHAYU"
+        }, 
+        "JNS_SARANAS": {
+          "code": 1
+        }, 
+        "ALAMATS": {
+          "code": "Jl. Gatot Subroto II No. 11 Denpasar Kota Denpasar"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "7271U004       ", 
+  "uuid": "aeca9a2e-5c7d-4896-a146-2177a798d6b0", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "7271U004"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "U004"
+        }, 
+        "NM_SARANAS": {
+          "code": "Gudang Farmasi Kota Palu"
+        }, 
+        "JNS_SARANAS": {
+          "code": 4
+        }, 
+        "ALAMATS": {
+          "code": "Jl. Lentora No.09 Mamboro Kec. Palu Utara Kota Palu Sulawesi Tengah 94145"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "7271U005       ", 
+  "uuid": "85533d47-766a-4def-a96a-2406f024eb74", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "7271U005"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "U005"
+        }, 
+        "NM_SARANAS": {
+          "code": "BNS S. Parman"
+        }, 
+        "JNS_SARANAS": {
+          "code": 5
+        }, 
+        "ALAMATS": {
+          "code": "Jl. Letjen Jl. S. Parman No.44 Besusu Tengah Palu Timur Palu Sulawesi Tengah 94111"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "7271C018       ", 
+  "uuid": "dd2233f1-7ba4-4096-a958-e61339593c6d", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "7271C018"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "C018"
+        }, 
+        "NM_SARANAS": {
+          "code": "RIZKI MART"
+        }, 
+        "JNS_SARANAS": {
+          "code": 6
+        }, 
+        "ALAMATS": {
+          "code": "Jl. Poe Bongo 2 Palu Kota Palu"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "7271C019       ", 
+  "uuid": "6ec928fc-9d8f-441c-a40f-35eb53331680", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "7271C019"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "C019"
+        }, 
+        "NM_SARANAS": {
+          "code": "KLINIK KECANTIKAN AZZAHRA"
+        }, 
+        "JNS_SARANAS": {
+          "code": 10
+        }, 
+        "ALAMATS": {
+          "code": "Jl. Pue Bongo No. 14 Kota Palu"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "7271C020       ", 
+  "uuid": "2570d7b0-4491-4527-b607-d92a2e04e893", 
+  "SARANA_QUEST": {
+    "SARANA_ID": {
+      "code": "7271C020"
+    }, 
+    "SARANA_REC": [
+      {
+        "NURT_SARANAS": {
+          "code": "C020"
+        }, 
+        "NM_SARANAS": {
+          "code": "KIOS / WARUNG RAPI"
+        }, 
+        "JNS_SARANAS": {
+          "code": 11
+        }, 
+        "ALAMATS": {
+          "code": "Jl.S.Parman No.3 Palu Kota Palu Sulawesi Tengah"
+        }
+      }
+    ]
+  }
+}
+]

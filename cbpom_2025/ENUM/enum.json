@@ -1,0 +1,338 @@
+[
+{
+  "key": "11007", 
+  "uuid": "cd75df8d-9cde-47a8-af24-509aa22a3a93", 
+  "ENUM_QUEST": {
+    "ID_ENUM": {
+      "code": "11007"
+    }, 
+    "ENUM_REC": [
+      {
+        "KD_ENUMD": {
+          "code": "7"
+        }, 
+        "NM_ENUMD": {
+          "code": "RIDHIA ASMADI"
+        }, 
+        "WILAYAH_ENUMD": {
+          "code": "Aceh"
+        }, 
+        "HP_ENUMD": {
+          "code": "82363781606"
+        }, 
+        "KETERANGAN_ENUMD": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "11008", 
+  "uuid": "ab81f90e-8e7d-4ce0-9ef7-74841acc243a", 
+  "ENUM_QUEST": {
+    "ID_ENUM": {
+      "code": "11008"
+    }, 
+    "ENUM_REC": [
+      {
+        "KD_ENUMD": {
+          "code": "8"
+        }, 
+        "NM_ENUMD": {
+          "code": "MAULIDA AFRIONITA"
+        }, 
+        "WILAYAH_ENUMD": {
+          "code": "Aceh"
+        }, 
+        "HP_ENUMD": {
+          "code": "82257735835"
+        }, 
+        "KETERANGAN_ENUMD": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "72276", 
+  "uuid": "18effba0-2c68-4942-bff1-fa77989a713a", 
+  "ENUM_QUEST": {
+    "ID_ENUM": {
+      "code": "72276"
+    }, 
+    "ENUM_REC": [
+      {
+        "KD_ENUMD": {
+          "code": "276"
+        }, 
+        "NM_ENUMD": {
+          "code": "JUSRIADI"
+        }, 
+        "WILAYAH_ENUMD": {
+          "code": "Sulawesi Tengah"
+        }, 
+        "HP_ENUMD": {
+          "code": "8114568040"
+        }, 
+        "KETERANGAN_ENUMD": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "72277", 
+  "uuid": "ff64ae17-8809-4da5-b456-ed6f47274d8b", 
+  "ENUM_QUEST": {
+    "ID_ENUM": {
+      "code": "72277"
+    }, 
+    "ENUM_REC": [
+      {
+        "KD_ENUMD": {
+          "code": "277"
+        }, 
+        "NM_ENUMD": {
+          "code": "TAUFIK"
+        }, 
+        "WILAYAH_ENUMD": {
+          "code": "Sulawesi Tengah"
+        }, 
+        "HP_ENUMD": {
+          "code": "85242264522"
+        }, 
+        "KETERANGAN_ENUMD": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "72278", 
+  "uuid": "5f72e69b-32be-4ef6-96b5-eedc6ddc9691", 
+  "ENUM_QUEST": {
+    "ID_ENUM": {
+      "code": "72278"
+    }, 
+    "ENUM_REC": [
+      {
+        "KD_ENUMD": {
+          "code": "278"
+        }, 
+        "NM_ENUMD": {
+          "code": "ARIE KURNIAWAN"
+        }, 
+        "WILAYAH_ENUMD": {
+          "code": "Sulawesi Tengah"
+        }, 
+        "HP_ENUMD": {
+          "code": "85395059904"
+        }, 
+        "KETERANGAN_ENUMD": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "51182", 
+  "uuid": "513814a9-7b37-41ce-a20d-0fdbc0932125", 
+  "ENUM_QUEST": {
+    "ID_ENUM": {
+      "code": "51182"
+    }, 
+    "ENUM_REC": [
+      {
+        "KD_ENUMD": {
+          "code": "182"
+        }, 
+        "NM_ENUMD": {
+          "code": "I GUSTI SUARATYANA"
+        }, 
+        "WILAYAH_ENUMD": {
+          "code": "Bali"
+        }, 
+        "HP_ENUMD": {
+          "code": "81995118484"
+        }, 
+        "KETERANGAN_ENUMD": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "51183", 
+  "uuid": "0291daa2-0737-4cff-833d-7b26a97dbbf4", 
+  "ENUM_QUEST": {
+    "ID_ENUM": {
+      "code": "51183"
+    }, 
+    "ENUM_REC": [
+      {
+        "KD_ENUMD": {
+          "code": "183"
+        }, 
+        "NM_ENUMD": {
+          "code": "I PUTU SUARTANA"
+        }, 
+        "WILAYAH_ENUMD": {
+          "code": "Bali"
+        }, 
+        "HP_ENUMD": {
+          "code": "81236426217"
+        }, 
+        "KETERANGAN_ENUMD": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "51184", 
+  "uuid": "6a76fd0d-5bac-42c5-bab7-84a8c9845cb8", 
+  "ENUM_QUEST": {
+    "ID_ENUM": {
+      "code": "51184"
+    }, 
+    "ENUM_REC": [
+      {
+        "KD_ENUMD": {
+          "code": "184"
+        }, 
+        "NM_ENUMD": {
+          "code": "I NYOMAN WIDIASA"
+        }, 
+        "WILAYAH_ENUMD": {
+          "code": "Bali"
+        }, 
+        "HP_ENUMD": {
+          "code": "85248081112"
+        }, 
+        "KETERANGAN_ENUMD": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "18078", 
+  "uuid": "d0356351-bc0b-423d-a438-45d05424db79", 
+  "ENUM_QUEST": {
+    "ID_ENUM": {
+      "code": "18078"
+    }, 
+    "ENUM_REC": [
+      {
+        "KD_ENUMD": {
+          "code": "78"
+        }, 
+        "NM_ENUMD": {
+          "code": "AHMAD NURUL FAQI"
+        }, 
+        "WILAYAH_ENUMD": {
+          "code": "Lampung"
+        }, 
+        "HP_ENUMD": {
+          "code": "81271989003"
+        }, 
+        "KETERANGAN_ENUMD": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "18079", 
+  "uuid": "b1427964-25fb-44e4-b0f1-2e6ec4dda9c3", 
+  "ENUM_QUEST": {
+    "ID_ENUM": {
+      "code": "18079"
+    }, 
+    "ENUM_REC": [
+      {
+        "KD_ENUMD": {
+          "code": "79"
+        }, 
+        "NM_ENUMD": {
+          "code": "AMNESTY AMALIA"
+        }, 
+        "WILAYAH_ENUMD": {
+          "code": "Lampung"
+        }, 
+        "HP_ENUMD": {
+          "code": "81369188014"
+        }, 
+        "KETERANGAN_ENUMD": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "18080", 
+  "uuid": "351ecc96-9f06-4d43-889c-8aa0a6bbb39d", 
+  "ENUM_QUEST": {
+    "ID_ENUM": {
+      "code": "18080"
+    }, 
+    "ENUM_REC": [
+      {
+        "KD_ENUMD": {
+          "code": "80"
+        }, 
+        "NM_ENUMD": {
+          "code": "DANIS JONATHAN"
+        }, 
+        "WILAYAH_ENUMD": {
+          "code": "Lampung"
+        }, 
+        "HP_ENUMD": {
+          "code": "82282267944"
+        }, 
+        "KETERANGAN_ENUMD": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "18081", 
+  "uuid": "367d870a-0c0d-45db-97ac-09c7f64fe85a", 
+  "ENUM_QUEST": {
+    "ID_ENUM": {
+      "code": "18081"
+    }, 
+    "ENUM_REC": [
+      {
+        "KD_ENUMD": {
+          "code": "81"
+        }, 
+        "NM_ENUMD": {
+          "code": "AZIZUL FITRIAN"
+        }, 
+        "WILAYAH_ENUMD": {
+          "code": "Lampung"
+        }, 
+        "HP_ENUMD": {
+          "code": "81271989003"
+        }, 
+        "KETERANGAN_ENUMD": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+}
+]
