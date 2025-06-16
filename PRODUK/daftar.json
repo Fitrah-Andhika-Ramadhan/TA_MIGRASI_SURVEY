@@ -1,0 +1,1710 @@
+[
+{
+  "key": "MD265213002118      ", 
+  "uuid": "35f6aa69-d9de-4a1e-81af-2bcc27e91310", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD265213002118"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "Le Minerale"
+        }, 
+        "NM_NIED": {
+          "code": "Air Minum Dalam Kemasan (Air Mineral)"
+        }, 
+        "KEMASAND": {
+          "code": "Botol Plastik (330 ml"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 600 ml"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " 1500 ml)"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "MD265211003085      ", 
+  "uuid": "d7d3bcd0-4698-47e8-9e60-819a9adbe03b", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD265211003085"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "AQUA"
+        }, 
+        "NM_NIED": {
+          "code": "Air Minum Dalam Kemasan (Air Mineral)"
+        }, 
+        "KEMASAND": {
+          "code": "Botol Plastik (330 ml"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 600 ml"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " dan 1500 m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "ML256209911900      ", 
+  "uuid": "49a5b8c4-c568-48cc-bda9-701d98b71655", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "ML256209911900"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "HEINZ"
+        }, 
+        "NM_NIED": {
+          "code": "French Dressing (Mayochup Saucy Sauce)"
+        }, 
+        "KEMASAND": {
+          "code": "Botol Plastik PET (545 g)"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "PT. PRIMASARI ETERNA"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "ML256209940900      ", 
+  "uuid": "bfe6d603-2986-4023-a03c-9813d580d3cb", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "ML256209940900"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "HEINZ"
+        }, 
+        "NM_NIED": {
+          "code": "Salad Dressing (Kranch Saucy Sauce)"
+        }, 
+        "KEMASAND": {
+          "code": "Botol Plastik PET (562 g)"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "PT. PRIMASARI ETERNA"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "MD117810153026      ", 
+  "uuid": "3fc97c7f-504c-4f05-b396-4b4e420cc9bf", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD117810153026"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "Tropicana Slim"
+        }, 
+        "NM_NIED": {
+          "code": "Selai Stroberi"
+        }, 
+        "KEMASAND": {
+          "code": "Botol Kaca (375 g)"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "PT NUTRIFOOD INDONESIA"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "DBL9104508712A1     ", 
+  "uuid": "55478bd1-f43a-4721-8790-8db73c798cef", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "DBL9104508712A1"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "DEGIROL TABLET HISAP 0"
+        }, 
+        "NM_NIED": {
+          "code": "25 MG"
+        }, 
+        "KEMASAND": {
+          "code": "Dermatologis"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "DUS"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " 10 AMPLOP"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "DKL0028602241B1     ", 
+  "uuid": "4096b117-d15d-4943-9e6e-7cf74b0bd790", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "DKL0028602241B1"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "REGROU FORTE CAIRAN OBAT LUAR 50 MG/ML"
+        }, 
+        "NM_NIED": {
+          "code": "Dermatologis"
+        }, 
+        "KEMASAND": {
+          "code": "DUS"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 1 BOTOL @ 30 ML"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "SURYA DERMA"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "DKL9730905101B1     ", 
+  "uuid": "f40f3d4d-4189-4fe2-8092-4d8a3c9ad9f4", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "DKL9730905101B1"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "PRITALINC 500 KAPSUL 500 MG"
+        }, 
+        "NM_NIED": {
+          "code": "Antiinfeksi umum untuk penggunaan sistemik"
+        }, 
+        "KEMASAND": {
+          "code": "DUS"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 6 STRIP @ 10 KAPSUL"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "MOLEX AYUS"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "GKL9413604338A1     ", 
+  "uuid": "88654663-a362-4f48-a752-76fce49812ff", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "GKL9413604338A1"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "AMOXICILLIN TRIHYDRATE SIRUP KERING 125 MG/5 ML"
+        }, 
+        "NM_NIED": {
+          "code": "Antiinfeksi umum untuk penggunaan sistemik"
+        }, 
+        "KEMASAND": {
+          "code": "DUS"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 1 BOTOL @ 60 ML"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "LUCAS DJAJA"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "GKL9909211304A1     ", 
+  "uuid": "f66a4361-2478-46d9-b422-7495e2a4ab1a", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "GKL9909211304A1"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "AMOXICILLIN TRIHYDRATE KAPLET 500 MG"
+        }, 
+        "NM_NIED": {
+          "code": "Antiinfeksi umum untuk penggunaan sistemik"
+        }, 
+        "KEMASAND": {
+          "code": "DUS"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 10 STRIP @ 10 KAPLET"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "IFARS - Ind"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "DKL9507910809A1     ", 
+  "uuid": "25800dde-1681-4cb3-b0f0-02ec1e33c1d6", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "DKL9507910809A1"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "NEUROPYRON-V KAPLET SALUT SELAPUT 500/100/50/0"
+        }, 
+        "NM_NIED": {
+          "code": "1 MG"
+        }, 
+        "KEMASAND": {
+          "code": "Sistem saraf pusat"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "DUS"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " 10 STRIP @"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "DTL0413021933B1     ", 
+  "uuid": "20fe4ba8-d748-4422-86c3-392696c5bea6", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "DTL0413021933B1"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "KONVERMEX 125 SUSPENSI 125 MG/5 ML"
+        }, 
+        "NM_NIED": {
+          "code": "Antiparasit"
+        }, 
+        "KEMASAND": {
+          "code": "DUS"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 10 BLISTER @ 1 BOTOL @ 10 ML"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "KONIMEX - I"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "DKI9676701044A1     ", 
+  "uuid": "1f714403-7965-474b-b7e3-e9a8b93a466f", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "DKI9676701044A1"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "VARILRIX SERBUK INJEKSI 2000 PFU/DOSIS"
+        }, 
+        "NM_NIED": {
+          "code": "Antiinfeksi umum untuk penggunaan sistemik"
+        }, 
+        "KEMASAND": {
+          "code": "DUS"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 1 VIAL @ 1 DOSIS (0"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "5 ML) + 1 A"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "GKL1504428943A1     ", 
+  "uuid": "5a539041-f14d-4bab-9d6a-e0a6e159cb23", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "GKL1504428943A1"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "EPIRUBICIN HCL CAIRAN INJEKSI 2 MG"
+        }, 
+        "NM_NIED": {
+          "code": "Antineoplastik dan agen immunodilator"
+        }, 
+        "KEMASAND": {
+          "code": "DUS"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 1 VIAL @ 5 ML"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "DANKOS FARM"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "DBL8710900737A1     ", 
+  "uuid": "d9f0223b-1e86-40f8-9dd9-b1e911a4eca0", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "DBL8710900737A1"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "ITRAMOL SIRUP 120 MG"
+        }, 
+        "NM_NIED": {
+          "code": "Sistem saraf pusat"
+        }, 
+        "KEMASAND": {
+          "code": "Dus"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 1 botol @ 60 mL"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "ITRASAL - I"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "DKL1405048349A1     ", 
+  "uuid": "6acea469-1b7d-4914-809d-f1eb6018f278", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "DKL1405048349A1"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "LOLINDEX INFUS 500 MG"
+        }, 
+        "NM_NIED": {
+          "code": "Obat Pencernaan dan Metabolisme"
+        }, 
+        "KEMASAND": {
+          "code": "DUS"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 5 AMPUL @ 10 ML"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "DEXA MEDICA"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "QD201617771         ", 
+  "uuid": "c226042e-8fef-4bc9-882f-459282fe08fa", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "QD201617771"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "PLOSSA REFILL PRESS AND SOOTHE AROMATICS EUCALYPTUS"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu memelihara kesehatan pencernaan"
+        }, 
+        "KEMASAND": {
+          "code": " membantu meringankan gangguan lambung"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu meredakan mual muntah"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " membantu m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "QD201621731         ", 
+  "uuid": "a7b8347a-0c48-48c8-a5bf-fa78010b3b21", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "QD201621731"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "MINYAK ANGIN CAP CABE"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu memelihara kesehatan penderita kanker"
+        }, 
+        "KEMASAND": {
+          "code": " membantu meredakan sakit kepala"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu meredakan pegal linu"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " membantu m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "QD201655611         ", 
+  "uuid": "0b4def34-d10d-4a2d-8dd1-0abee01309cd", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "QD201655611"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "PLOSSA PRESS AND SOOTHE AROMATICS HERBAL MENTHOL"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu memelihara kesehatan pencernaan"
+        }, 
+        "KEMASAND": {
+          "code": " membantu meringankan gangguan lambung"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu meredakan mual muntah"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " membantu m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "QD201655641         ", 
+  "uuid": "09bdd187-d42a-4124-b3bb-8dbd70a2ed1a", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "QD201655641"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "PLOSSA PRESS AND SOOTHE AROMATICS HERBAL MENTHOL"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu memelihara kesehatan pencernaan"
+        }, 
+        "KEMASAND": {
+          "code": " membantu meringankan gangguan lambung"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu meredakan mual muntah"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " membantu m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "QD201664281         ", 
+  "uuid": "b40cb6aa-5355-44e8-adb6-3797e0a0b772", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "QD201664281"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "Plossa mini panasin pegal linu red hot"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu memelihara kesehatan pencernaan"
+        }, 
+        "KEMASAND": {
+          "code": " membantu meringankan gangguan lambung"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu meredakan mual muntah"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " membantu m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "QI064601351         ", 
+  "uuid": "edbf7d45-d364-4278-8eb2-a547e5f0cc83", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "QI064601351"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "MINYAK URUT CAP GUNUNG HIJAU"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu memelihara kesehatan penderita kanker"
+        }, 
+        "KEMASAND": {
+          "code": " membantu meredakan sakit kepala"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu meredakan pegal linu"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " membantu m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "QI074601531         ", 
+  "uuid": "fab70b29-dde4-47ff-8944-9c904956ca4e", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "QI074601531"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "SIANG PURE OIL"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu memelihara kesehatan penderita kanker"
+        }, 
+        "KEMASAND": {
+          "code": " membantu meredakan sakit kepala"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu meredakan pegal linu"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " membantu m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "TI214698971         ", 
+  "uuid": "d13b158a-ffd9-4861-a0d9-776888983f43", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "TI214698971"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "ROYAL JELLY WITH HONEY +  LUK WEI PA (MEI FAH BRAND)"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu memelihara kesehatan tubuh"
+        }, 
+        "KEMASAND": {
+          "code": " membantu memelihara daya tahan tubuh"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu menghangatkan badan"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " membantu m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "TI214998951         ", 
+  "uuid": "7b27b525-ad39-4cb0-9c30-fcd4df9b963c", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "TI214998951"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "TINCHI-GINSENG INFUSION"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu memelihara kesehatan tubuh"
+        }, 
+        "KEMASAND": {
+          "code": " membantu memelihara daya tahan tubuh"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu menghangatkan badan"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " membantu m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "TI218683791         ", 
+  "uuid": "155faa45-5755-4d10-9205-230bb3879944", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "TI218683791"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "BIG BEE PROPOLIS LIQUID EXTRACT."
+        }, 
+        "NM_NIED": {
+          "code": "Membantu memelihara kesehatan tubuh"
+        }, 
+        "KEMASAND": {
+          "code": " membantu memelihara daya tahan tubuh"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu menghangatkan badan"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " membantu m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "TL210391591         ", 
+  "uuid": "277f7d6e-9724-474f-94b6-d46c1743970b", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "TL210391591"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "DIALANCE"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu melancarkan sirkulasi darah"
+        }, 
+        "KEMASAND": {
+          "code": " membantu meringankan gejala kencing manis"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "Botol @ 240 kapsul"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "PT BIOTEK F"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "TL212388161         ", 
+  "uuid": "a4837490-178f-488f-8ffc-f385206a8752", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "TL212388161"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "K-FIX"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu melancarkan buang air buang air kecil"
+        }, 
+        "KEMASAND": {
+          "code": " membantu meringankan tekanan darah tinggi"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "Botol"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " isi 120 ka"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "TR022514801         ", 
+  "uuid": "95b8cfd5-1861-48f1-8b6c-1c29ed2d8ea3", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "TR022514801"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "AYUDARA"
+        }, 
+        "NM_NIED": {
+          "code": "Klaim lainnya"
+        }, 
+        "KEMASAND": {
+          "code": "Dus"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 5 strip @ 6 kaplet"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "PT MUSTIKA"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "TR023215061         ", 
+  "uuid": "9e409b0b-8ea4-4da0-a289-1f896e850e35", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "TR023215061"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "NEW WEDANG JASMAT"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu memelihara kesehatan tubuh"
+        }, 
+        "KEMASAND": {
+          "code": " membantu memelihara daya tahan tubuh"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu menghangatkan badan"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " membantu m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "TR053649231         ", 
+  "uuid": "948cf84d-ed33-419b-a9e4-9973e594c2ce", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "TR053649231"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "BAMBI BABY MINYAK KAYU PUTIH"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu memelihara kesehatan tubuh"
+        }, 
+        "KEMASAND": {
+          "code": " membantu memelihara daya tahan tubuh"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu menghangatkan badan"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " membantu m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "TR062362481         ", 
+  "uuid": "a49dbe50-979f-48ac-b498-b00e02afdda7", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "TR062362481"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "SIRIHAN"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu memelihara kesehatan wanita sehabis bersalin"
+        }, 
+        "KEMASAND": {
+          "code": " membantu melancarkan haid"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu meredakan nyeri haid"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " memelihara"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "TR062363511         ", 
+  "uuid": "8154c8c5-e02c-4e5d-8358-ba5a37bfd65b", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "TR062363511"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "SELERI"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu melancarkan buang air buang air kecil"
+        }, 
+        "KEMASAND": {
+          "code": " membantu meringankan tekanan darah tinggi"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "Botol @ 30"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " 60 & 100 k"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "TR062363651         ", 
+  "uuid": "01350a31-9352-4d3f-99fd-844e1afa7921", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "TR062363651"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "MEDIVEN"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu melancarkan buang air besar"
+        }, 
+        "KEMASAND": {
+          "code": " membantu memadatkan tinja"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu mengurangi frekuensi buang air"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " membantu m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "TR133674231         ", 
+  "uuid": "ac8cf162-7ac0-4016-a7de-3e863321197c", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "TR133674231"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "MINYAK TAWON &QUOT;912&QUOT;"
+        }, 
+        "NM_NIED": {
+          "code": "Membantu memelihara kesehatan penderita kanker"
+        }, 
+        "KEMASAND": {
+          "code": " membantu meredakan sakit kepala"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " membantu meredakan pegal linu"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " membantu m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "TR133674401         ", 
+  "uuid": "6061727e-6355-41b0-8907-e0e91b5507eb", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "TR133674401"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "MASUK ANGIN S M J (SIDA MARANGIN JAYA)"
+        }, 
+        "NM_NIED": {
+          "code": "Tanpa Klaim"
+        }, 
+        "KEMASAND": {
+          "code": "Sachet @ 15 ml"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "KOPJA SABUK KUNING"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Tidak Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "206128000000000     ", 
+  "uuid": "4dfe1aed-a020-4286-807f-a697f9d8a1a0", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "206128000000000"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "-"
+        }, 
+        "NM_NIED": {
+          "code": "pembuatan risol pembuatansmoke beef"
+        }, 
+        "KEMASAND": {
+          "code": "-"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "ristle gembel"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "306128000000000     ", 
+  "uuid": "9ab6abe4-0166-492d-8664-be885742a286", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "306128000000000"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "-"
+        }, 
+        "NM_NIED": {
+          "code": "pembuatan bolu pembuatan kacang goreng"
+        }, 
+        "KEMASAND": {
+          "code": "-"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "de empat belas coffee"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "510128000000000     ", 
+  "uuid": "ac5b55ec-b1ec-46c5-af68-7284e4821efd", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "510128000000000"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "-"
+        }, 
+        "NM_NIED": {
+          "code": "pembuatan kopi biji kering/bubuk pembuatan pastel pembuatan  bawang goreng pembuatan black"
+        }, 
+        "KEMASAND": {
+          "code": "-"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "BERKAH RIZKI"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "208128000000000     ", 
+  "uuid": "11bb74da-43a8-41da-919d-c5a0457bbe6a", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "208128000000000"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "-"
+        }, 
+        "NM_NIED": {
+          "code": "pembuatan selai"
+        }, 
+        "KEMASAND": {
+          "code": "-"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "RUMAH BAKERY"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "215128000000000     ", 
+  "uuid": "dbd1b3ad-9b96-493e-9ea3-4330c2fcfcb3", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "215128000000000"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "-"
+        }, 
+        "NM_NIED": {
+          "code": "pembuatan keripik kentang"
+        }, 
+        "KEMASAND": {
+          "code": "-"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "Dapoer K' Cout"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "NA11210100167       ", 
+  "uuid": "42750614-ef06-4cba-9135-caf42757c8d7", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "NA11210100167"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "SKINTIFIC 5X Ceramide Barrier Moisture Gel"
+        }, 
+        "NM_NIED": {
+          "code": "Moisturizer"
+        }, 
+        "KEMASAND": {
+          "code": " Pot 30 g"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "PT MAY SUN YVAN"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "NA49211200056       ", 
+  "uuid": "02647028-ba10-45b1-81d8-e390d7a31fdd", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "NA49211200056"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "NIVEA Oil & Acne Care MicellAir Skin Breathe"
+        }, 
+        "NM_NIED": {
+          "code": "Pembersih Kulit Muka"
+        }, 
+        "KEMASAND": {
+          "code": " Botol 125 Pilih Satuan"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " Botol 400 mL"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "PT BEIERSDO"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "NC49211500014       ", 
+  "uuid": "41c4d260-ea65-4fa7-ac58-a5d27650115b", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "NC49211500014"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "ZARA Nail Polish Skinny Rose"
+        }, 
+        "NM_NIED": {
+          "code": "Nail Color"
+        }, 
+        "KEMASAND": {
+          "code": " Botol 8 mL"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "PT SARIMODE FASHINDO ADIPERKASA"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "NA18212000473       ", 
+  "uuid": "d5946533-f480-4b3f-ae85-6d6748ca5b9a", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "NA18212000473"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "SHDERM BY DR. SYARIEF HIDAYAT"
+        }, 
+        "NM_NIED": {
+          "code": " SPKK Rejuve Eye Serum Roll On"
+        }, 
+        "KEMASAND": {
+          "code": "Eye Wrinkle Product"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " Botol 10 mL"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " Botol 15 m"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "NA18211207260       ", 
+  "uuid": "fe860626-05d8-4f35-823b-d6faaffe0451", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "NA18211207260"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "L&V Toner Derma Moist Plus"
+        }, 
+        "NM_NIED": {
+          "code": "Penyegar Kulit Muka"
+        }, 
+        "KEMASAND": {
+          "code": " Botol 100 mL"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "PT IMMORTAL COSMEDIKA INDONESIA"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "NA18130700733       ", 
+  "uuid": "750d0675-a61e-47bc-b542-85458e46f07e", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "NA18130700733"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "LUX AQUA SPARKLE BODY WASH"
+        }, 
+        "NM_NIED": {
+          "code": "cairan kental"
+        }, 
+        "KEMASAND": {
+          "code": "kantong 450ml"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "PT. UNILEVER INDONESIA"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Tidak Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "MD231509005002      ", 
+  "uuid": "de0e6d11-bd07-4a4f-ac16-011aba1f4776", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD231509005002"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "INDOMIE"
+        }, 
+        "NM_NIED": {
+          "code": "Mi Instan Rasa Soto Mie"
+        }, 
+        "KEMASAND": {
+          "code": "Plastik (70g)"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "PT. Indofood CBP Sukses Makmur Tbk"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "MD231509014002      ", 
+  "uuid": "f7b93ea8-adda-4442-9cf6-62ed7df402c5", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD231509014002"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "INDOMIE"
+        }, 
+        "NM_NIED": {
+          "code": "Mi Instan Goreng"
+        }, 
+        "KEMASAND": {
+          "code": "Plastik (80g)"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "PT. Indofood CBP Sukses Makmur Tbk"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "MD265202004085      ", 
+  "uuid": "c4cc3241-b970-4160-a5c1-d070ade68107", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD265202004085"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "AQUA"
+        }, 
+        "NM_NIED": {
+          "code": "Air Minum Dalam Kemasan (Air Mineral)"
+        }, 
+        "KEMASAND": {
+          "code": "Gelas Plastik (120 ml"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 220 ml"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " dan 240 ml"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "NA18161000761       ", 
+  "uuid": "fb01b4f1-9428-42c8-9b2c-a7512beb64e1", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "NA18161000761"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "ELLIPS Vitamin Hair Mask Hair Treatment"
+        }, 
+        "NM_NIED": {
+          "code": "Hair Conditioner"
+        }, 
+        "KEMASAND": {
+          "code": " Outerbox 12Sachet@20 g"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " Sachet 20 g"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "KINO INDONE"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "NA18161000771       ", 
+  "uuid": "088480a5-5c72-4b2b-9549-f4d923824163", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "NA18161000771"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "ELLIPS Vitamin Hair Mask Smooth & Shiny"
+        }, 
+        "NM_NIED": {
+          "code": "Hair Conditioner"
+        }, 
+        "KEMASAND": {
+          "code": " Outerbox 12Sachet@20 g"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " Sachet 20 g"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "KINO INDONE"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "MD266610015254      ", 
+  "uuid": "3bbdaa33-33aa-4f9f-a7e9-7dfbd99fe721", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD266610015254"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "POCARI SWEAT"
+        }, 
+        "NM_NIED": {
+          "code": "Minuman Rasa Citrus"
+        }, 
+        "KEMASAND": {
+          "code": "BOTOL PLASTIK (250 ml"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 350 ml"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " 500 ml"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "MD268328002179      ", 
+  "uuid": "6c879f2f-cdac-45f3-acea-cd345e0c91f3", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD268328002179"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "Pucuk Wangi"
+        }, 
+        "NM_NIED": {
+          "code": "Minuman Teh Aroma Melati"
+        }, 
+        "KEMASAND": {
+          "code": "Gelas Plastik PP (180 ml"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 220 ml"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " 240 ml)"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "MD268328004179      ", 
+  "uuid": "5f7e2d98-6fbd-476b-b85e-3c524243db1b", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD268328004179"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "Pucuk Wangi"
+        }, 
+        "NM_NIED": {
+          "code": "Minuman Teh Rasa Vanila"
+        }, 
+        "KEMASAND": {
+          "code": "Gelas Plastik PP (180 ml"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 220 ml"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " 240 ml)"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "MD268328006179      ", 
+  "uuid": "b3af6d00-8856-40fa-9f5c-dbb66bf486e8", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD268328006179"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "Pucuk Wangi"
+        }, 
+        "NM_NIED": {
+          "code": "Minuman Teh Rasa Lemon"
+        }, 
+        "KEMASAND": {
+          "code": "Gelas Plastik PP (180 ml"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " 220 ml"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": " 240 ml)"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "MD268828075223      ", 
+  "uuid": "b7715461-6b75-4b04-a944-ae27527a92f1", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD268828075223"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "Kopi Kenangan"
+        }, 
+        "NM_NIED": {
+          "code": "Minuman Kopi Susu Gula Aren"
+        }, 
+        "KEMASAND": {
+          "code": "Botol plastik PET (220 ml)"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "PT. ABC KOGEN DAIRY"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "MD268828079223      ", 
+  "uuid": "7ccdf83c-1b0d-4ed9-bebb-28e2ce106f1b", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD268828079223"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "Kopi Kenangan"
+        }, 
+        "NM_NIED": {
+          "code": "Minuman Kopi Rasa Avocado"
+        }, 
+        "KEMASAND": {
+          "code": "Botol Plastik PET (220 ml)"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "PT. ABC KOGEN DAIRY"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "MD268828082223      ", 
+  "uuid": "30c9efa5-219d-4983-86b0-c2a03ee02b34", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD268828082223"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "Kopi Kenangan"
+        }, 
+        "NM_NIED": {
+          "code": "Minuman Kopi Kapucino"
+        }, 
+        "KEMASAND": {
+          "code": "Botol Plastik PET (220 ml)"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "PT. ABC KOGEN DAIRY"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "MD268828085223      ", 
+  "uuid": "baa53981-1cad-4fd9-8b50-bed2afb7c725", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD268828085223"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "Kopi Kenangan"
+        }, 
+        "NM_NIED": {
+          "code": "Minuman Kopi Rasa Cokelat Karamel (Choco Caramel Coffee)"
+        }, 
+        "KEMASAND": {
+          "code": "Botol Plastik PET (220 ml)"
+        }, 
+        "NM_PRODUSEND": {
+          "code": "PT. ABC KOGEN DAIRY"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "Aktif"
+        }
+      }
+    ]
+  }
+},
+{
+  "key": "MD201010001400      ", 
+  "uuid": "6b14f434-f367-43d1-a615-59ee58b2ac83", 
+  "DAFTAR_QUEST": {
+    "NIED": {
+      "code": "MD201010001400"
+    }, 
+    "DAFTAR_REC": [
+      {
+        "NM_PRODUKD": {
+          "code": "YAKULT"
+        }, 
+        "NM_NIED": {
+          "code": " Minuman Susu Fermentasi"
+        }, 
+        "KEMASAND": {
+          "code": "Botol Plastik (65ml)"
+        }, 
+        "NM_PRODUSEND": {
+          "code": " Botol Plastik dalam Plastik (325 ml/5 pcs @ 65ml)"
+        }, 
+        "KETERANGAN_NIE": {
+          "code": "PT YAKULT I"
+        }
+      }
+    ]
+  }
+}
+]
