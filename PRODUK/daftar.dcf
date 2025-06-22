@@ -1,0 +1,82 @@
+{
+  "software": "CSPro", 
+  "version": 8.0, 
+  "fileType": "dictionary", 
+  "name": "DAFTAR_DICT", 
+  "labels": [ { "text": "daftar" } ], 
+  "security": {
+    "allowDataViewerModifications": true, 
+    "allowExport": true, 
+    "cachedPasswordMinutes": 0, 
+    "settings": "efbd5a3dd4e1b4de30efacf72356b52fca8d8ea4dc7e9203db9ec472b2ddd9b9"
+  }, 
+  "readOptimization": true, 
+  "recordType": {
+    "start": 0, 
+    "length": 0
+  }, 
+  "defaults": {
+    "decimalMark": true, 
+    "zeroFill": true
+  }, 
+  "relativePositions": true, 
+  "levels": [
+    {
+      "name": "DAFTAR_QUEST", 
+      "labels": [ { "text": "daftar questionnaire" } ], 
+      "ids": {
+        "items": [
+          {
+            "name": "NIED", 
+            "labels": [ { "text": "Nomor Izin Edar" } ], 
+            "contentType": "alpha", 
+            "start": 1, 
+            "length": 20
+          }
+        ]
+      }, 
+      "records": [
+        {
+          "name": "DAFTAR_REC", 
+          "labels": [ { "text": "daftar record" } ], 
+          "occurrences": {
+            "required": true, 
+            "maximum": 1
+          }, 
+          "items": [
+            {
+              "name": "NM_PRODUKD", 
+              "labels": [ { "text": "Nama Produk" } ], 
+              "contentType": "alpha", 
+              "length": 300
+            }, 
+            {
+              "name": "NM_NIED", 
+              "labels": [ { "text": "Jenis Produk" } ], 
+              "contentType": "alpha", 
+              "length": 300
+            }, 
+            {
+              "name": "KEMASAND", 
+              "labels": [ { "text": "Kemasan" } ], 
+              "contentType": "alpha", 
+              "length": 999
+            }, 
+            {
+              "name": "NM_PRODUSEND", 
+              "labels": [ { "text": "Nama Perusahaan" } ], 
+              "contentType": "alpha", 
+              "length": 255
+            }, 
+            {
+              "name": "KETERANGAN_NIE", 
+              "labels": [ { "text": "Keterangan NIE" } ], 
+              "contentType": "alpha", 
+              "length": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

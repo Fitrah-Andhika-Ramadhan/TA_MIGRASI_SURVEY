@@ -1,0 +1,8 @@
+﻿Application     D:\Semester 8\TA BARU\cbpom_2025\cbpom_2025.ent
+Type            Entry
+Date            Jun 22, 2025
+Time            16:56:10
+
+CSPro Error Summary
+
+WARNING(DATA_PRODUK000, 1275): DATA_PRODUK000 should have a subscript - you may get error messages when you run this application

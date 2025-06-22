@@ -1,0 +1,30 @@
+﻿Application     C:\Users\ADVAN\Downloads\BPOM-QR-IMPLEMENTATION-main\BPOM-QR-IMPLEMENTATION-main\cbpom_2022\cbpom_2025.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> D:\Semester 8\TA BARU\cbpom_2025\cbpom_2025.csdb
+External        ENUM_DICT=<<CSPro DB>> D:\Semester 8\TA BARU\cbpom_2025\ENUM\enum.csdb
+External        DAFTAR_DICT=<<CSPro DB>> D:\Semester 8\TA BARU\cbpom_2025\PRODUK\daftar.csdb
+External        SARANA_DICT=<<CSPro DB>> D:\Semester 8\TA BARU\cbpom_2025\SARANA\sarana.csdb
+
+Date            Jun 18, 2025
+Start Time      22:40:48
+End Time        22:41:17
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+  100111           1         Error uploading file %s.                                                                   
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+     135           1      -  Data Backup Uploaded FAILED                                                               -
+
+
+A compilation error file (cbpom_2025.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
